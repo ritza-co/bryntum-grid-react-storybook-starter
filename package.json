@@ -13,8 +13,6 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
-    "@bryntum/grid": "^6.1.7",
-    "@bryntum/grid-react": "^6.1.7",
     "@typescript-eslint/eslint-plugin": "^8.26.0",
     "@typescript-eslint/parser": "^8.26.0",
     "eslint-plugin-react": "^7.37.4",
